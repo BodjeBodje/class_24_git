@@ -5,3 +5,4 @@ Hello this my first file
 hello from amadou diallo that my first branch 
 hello from amadou diall
 hello amadou from branch 2 that my second branch
+hello bouriah
